@@ -34,9 +34,9 @@ To run this code, you need the following dependencies:
 5. tqdm
 6. sci-kit-learn
    
-VISUALIZATION
+VISUALIZATION : 
 Added a result folder, which has the screenshots.
 
-CONCLUSION
+CONCLUSION :
 The recommender system uses the KMeans clustering algorithm and the Manhattan distance metric to find songs with similar characteristics.
 
