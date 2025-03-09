@@ -32,10 +32,10 @@ To run this code, you need the following dependencies:
 <ul>
   <li>NumPy</li>
   <li> pandas</li>
-<li>  matplotlib</li> 
-<li> seaborn <li> 
-<li>  tqdm </li> 
-<li>  sci-kit-learn </li>  
+  <li> matplotlib</li> 
+  <li> seaborn <li> 
+  <li>  tqdm </li> 
+  <li> sci-kit-learn </li>  
 </ul>
 
 
