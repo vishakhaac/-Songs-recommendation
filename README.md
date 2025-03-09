@@ -34,8 +34,7 @@ To run this code, you need the following dependencies:
   <li> pandas</li>
   <li> matplotlib</li> 
   <li> sci-kit-learn </li>  
-  <li> seaborn <li> 
-  <li>  tqdm </li> 
+  <li> seaborn </li> 
 </ul>
 
 
