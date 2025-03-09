@@ -1,12 +1,12 @@
 # -Songs-recommendation
 # Goal
 This implementation helps in recommending the top 5 songs, on the basis of the input provided.
-# Dataset:
+# Dataset
 The data is in the form of a CSV file. 
 
-**Link if dataset :** https://drive.google.com/file/d/1ZLvrPWXzxAgux_2rErlqSIBFnpCj6vwf/view?usp=sharing
+**Link of dataset :** https://drive.google.com/file/d/1ZLvrPWXzxAgux_2rErlqSIBFnpCj6vwf/view?usp=sharing
         
-# What i had done
+# What I Had Done
 The step-by-step procedure of how the project works:
 
 This code provides a Spotify song recommender system based on a given dataset. The recommender system uses the KMeans clustering algorithm and the Manhattan distance metric to find songs with similar characteristics.
@@ -37,9 +37,6 @@ To run this code, you need the following dependencies:
   <li> seaborn </li> 
 </ul>
    
- # Visulization
-Added a result folder, which has the screenshots.
-
  # Conclusion
 The recommender system uses the KMeans clustering algorithm and the Manhattan distance metric to find songs with similar characteristics.
 
