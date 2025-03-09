@@ -1,5 +1,5 @@
 # -Songs-recommendation
-# AIM 
+# Goal
 This implementation helps in recommending the top 5 songs, on the basis of the input provided.
 # DATASET:
 The data is in the form of a CSV file. 
