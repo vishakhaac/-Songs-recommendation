@@ -23,19 +23,19 @@ This code provides a Spotify song recommender system based on a given dataset. T
 
  **6. Usage Example:**  Several examples are given to demonstrate how to use the recommender system on different songs.
 
-#Recomandation Algorithm:
+# Recomandation Algorithm:
 
 The recommendation algorithm in this code utilizes the concept of Manhattan distance to measure the similarity between songs. The Manhattan distance, also known as the city block distance or L1 distance, calculates the total difference between corresponding feature values of two songs. By comparing the Manhattan distances of songs, the algorithm identifies the top 5 closest songs to a given input song.
 
-Requirements:
+# Requirements:
 To run this code, you need the following dependencies:
 <ul>
   <li>NumPy</li>
   <li> pandas</li>
   <li> matplotlib</li> 
+  <li> sci-kit-learn </li>  
   <li> seaborn <li> 
   <li>  tqdm </li> 
-  <li> sci-kit-learn </li>  
 </ul>
 
 
