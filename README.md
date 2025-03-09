@@ -36,13 +36,10 @@ To run this code, you need the following dependencies:
   <li> sci-kit-learn </li>  
   <li> seaborn </li> 
 </ul>
-
-
-
    
-VISUALIZATION : 
+ # Visulization : 
 Added a result folder, which has the screenshots.
 
-CONCLUSION :
+ # Conclusion :
 The recommender system uses the KMeans clustering algorithm and the Manhattan distance metric to find songs with similar characteristics.
 
